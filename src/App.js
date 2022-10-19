@@ -16,6 +16,7 @@ function App() {
    <section id="mimic" class="welcome-section">
     <h1>Hey, I am Cristina</h1>
     <p>a web developer</p>
+    <img class="image" src="https://live.staticflickr.com/65535/52440161980_4b63d248bf_n.jpg" alt="personal img" />
    </section>
       
    <section id="projects">
@@ -32,18 +33,18 @@ function App() {
       <a class="project-a" href="https://codepen.io/cristina_jura/full/zYWEjWp" target="blank">
         <img class="project-image" src="https://live.staticflickr.com/65535/52375069493_a303834c74.jpg" alt="project" />
         <p class="project-title"><span class="code">&lt;</span> Drum Machine <span class="code">&#47;&gt;</span> </p>
+        </a>
+      <a class="project-a" href="https://codepen.io/cristina_jura/full/dyeLwNZ" target="blank">
+        <img class="project-image" src="https://live.staticflickr.com/65535/52439353725_bf2b5593f6.jpg" alt="project" />
+        <p class="project-title"><span class="code">&lt;</span> Tic Tac Toe <span class="code">&#47;&gt;</span> </p>
       </a>
-      <a class="project-a" href="https://codepen.io/cristina_jura/full/qBxoZLR" target="blank">
-        <img class="project-image" src="https://live.staticflickr.com/65535/52375068408_ee1869d1be.jpg" alt="project" />
-        <p class="project-title"><span class="code">&lt;</span> Random Quote Machine <span class="code">&#47;&gt;</span> </p>
+      <a class="project-a" href="https://codepen.io/cristina_jura/full/GRdLVGw" target="blank">
+        <img class="project-image" src="https://live.staticflickr.com/65535/52439419388_e7ac399416.jpg" alt="project" />
+        <p class="project-title"><span class="code">&lt;</span> Countdown Timer <span class="code">&#47;&gt;</span></p>
       </a>
       <a class="project-a" href="https://codepen.io/cristina_jura/full/oNWyomz" target="blank">
-        <img class="project-image" src="https://live.staticflickr.com/65535/51406200909_e9f299cb24_b.jpg" alt="project" />
+        <img class="project-image" src="https://live.staticflickr.com/65535/52439195299_c20d36caa8.jpg" alt="project" />
         <p class="project-title"><span class="code">&lt;</span> Survey Form <span class="code">&#47;&gt;</span></p>
-      </a>
-      <a class="project-a" href="https://codepen.io/cristina_jura/full/YzVJdwX" target="blank">
-        <img class="project-image" src="https://live.staticflickr.com/65535/51405362855_cafc52f3d0_b.jpg" alt="project" />
-        <p class="project-title"><span class="code">&lt;</span> Product Landing Page <span class="code">&#47;&gt;</span></p>
       </a>
     </div>
     <br/>

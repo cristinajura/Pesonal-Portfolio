@@ -1,25 +1,3 @@
-/* @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,200;1,300&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;700&display=swap");
-
-:root {
-  --main-red: #c03040;
-  --main-gray: #29323c;
-  --main-white: #f0f0f0;
-  --main-blue: #45677f;
-}
-* {
-  margin: 0;
-  padding: 0;
-}
-body {
-  font-family: "Poppins", sans-serif;
-  color: var(--main-white);
-  text-align: center;
-}
-html {
-  scroll-behavior: smooth;
-} */
-
 h1,
 h2 {
   font-family: "Raleway", sans-serif;
@@ -110,6 +88,12 @@ nav a:hover {
   font-style: italic;
   margin-top: 0;
   text-shadow: 1px 3px rgba(0, 0, 0, 0.4);
+}
+
+.image {
+  width: 200px;
+  height: auto;
+  margin-top: 10px;
 }
 
 #projects {

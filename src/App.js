@@ -58,7 +58,7 @@ function App() {
     <div class="bottom-div">
       <a class="bottom-a" href="https://www.facebook.com/profile.php?id=100000780556603" target="blank"><i class="fab fa-facebook-square"></i> Facebook</a>
       <a class="bottom-a" href="https://github.com/cristinajura" target="blank"><i class="fab fa-github"></i> GitHub</a>
-      <a class="bottom-a" href="https://twitter.com/JuraCristina" target="blank"><i class="fab fa-twitter"></i> Twitter</a>
+      <a class="bottom-a" href="https://www.linkedin.com/in/cristina-jura-292996226/" target="blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
       <a class="bottom-a" href="mailto:cristina.jura16@gmail.com" target="blank"><i class="fas fa-at"></i> Send a mail</a>
       <a class="bottom-a" href="tel:0040-734-407-892" target="blank"><i class="fas fa-mobile-alt"></i> Call me</a>
     </div>
